@@ -447,6 +447,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cursed_stone_advancement"
+    },
+    {
+      "name": "CursedDimensionPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_dimension_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -500,6 +517,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "com.blade7777.cursedcraft",
     "lockBaseModFiles": false
   },
