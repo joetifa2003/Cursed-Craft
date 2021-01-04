@@ -1,0 +1,22 @@
+{
+  "group": "cursed_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cursed_craft:cursed_blanks"
+    },
+    "1": {
+      "item": "cursed_craft:cursed_blanks"
+    },
+    "2": {
+      "item": "cursed_craft:cursed_blanks"
+    }
+  },
+  "result": {
+    "item": "cursed_craft:cursed_stab",
+    "count": 1
+  }
+}

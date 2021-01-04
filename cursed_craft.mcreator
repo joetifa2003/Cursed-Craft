@@ -1,0 +1,507 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CursedStone",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_stone"
+    },
+    {
+      "name": "CursedGem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_gem"
+    },
+    {
+      "name": "CursedPickaxe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_pickaxe"
+    },
+    {
+      "name": "CursedGemRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_gem_recipe"
+    },
+    {
+      "name": "CursedStoneOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_stone_ore"
+    },
+    {
+      "name": "RefinedCursedGem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_cursed_gem"
+    },
+    {
+      "name": "CursedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_pickaxe_recipe"
+    },
+    {
+      "name": "RefienedCursedGemRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refiened_cursed_gem_recipe"
+    },
+    {
+      "name": "CursedSword",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_sword"
+    },
+    {
+      "name": "CursedSwordRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_sword_recipe"
+    },
+    {
+      "name": "CursedAxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_axe"
+    },
+    {
+      "name": "CursedAxeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_axe_recipe"
+    },
+    {
+      "name": "CursedBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_block"
+    },
+    {
+      "name": "CursedBlockRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_block_recipe"
+    },
+    {
+      "name": "CursedBiome",
+      "type": "biome",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_biome"
+    },
+    {
+      "name": "CursedGrass",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_grass"
+    },
+    {
+      "name": "CursedDirt",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_dirt"
+    },
+    {
+      "name": "GlowingGrass",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowing_grass"
+    },
+    {
+      "name": "DirtTag",
+      "type": "tag",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_tag"
+    },
+    {
+      "name": "RefinedCursedGemRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_cursed_gem_recipe"
+    },
+    {
+      "name": "CursedLog",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_log"
+    },
+    {
+      "name": "CursedBranches",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_branches"
+    },
+    {
+      "name": "CursedBlanks",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_blanks"
+    },
+    {
+      "name": "CursedCraft",
+      "type": "tab",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_craft"
+    },
+    {
+      "name": "CursedBlanksRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_blanks_recipe"
+    },
+    {
+      "name": "PlanksTag",
+      "type": "tag",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "planks_tag"
+    },
+    {
+      "name": "CursedStairs",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_stairs"
+    },
+    {
+      "name": "CursedStairsRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_stairs_recipe"
+    },
+    {
+      "name": "CursedStab",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_stab"
+    },
+    {
+      "name": "CursedStabRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_stab_recipe"
+    },
+    {
+      "name": "CursedShovel",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_shovel"
+    },
+    {
+      "name": "CursedShovelRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_shovel_recipe"
+    },
+    {
+      "name": "CursedArmor",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CursedArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_armor_helmet_recipe"
+    },
+    {
+      "name": "CursedArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_armor_body_recipe"
+    },
+    {
+      "name": "CursedArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_armor_leggings_recipe"
+    },
+    {
+      "name": "CursedArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_armor_boots_recipe"
+    },
+    {
+      "name": "CursedZombie",
+      "type": "mob",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_zombie"
+    },
+    {
+      "name": "CursedZombieLT",
+      "type": "loottable",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_zombie_lt"
+    },
+    {
+      "name": "CursedZombieOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_zombie_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CursedBlackStone",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_black_stone"
+    },
+    {
+      "name": "CursedDimension",
+      "type": "dimension",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "CursedWater",
+      "type": "fluid",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_water"
+    },
+    {
+      "name": "CursedDimentionIgniterRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_dimention_igniter_recipe"
+    },
+    {
+      "name": "BagGUI",
+      "type": "gui",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bag_gui"
+    },
+    {
+      "name": "CursedStoneAdvancement",
+      "type": "achievement",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cursed_stone_advancement"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.cursed_craft.cursed_water_bucket": "CursedWater Bucket",
+      "block.cursed_craft.cursed_dirt": "Cursed Dirt",
+      "block.cursed_craft.cursed_stone_ore": "Cursed Stone Ore",
+      "block.cursed_craft.cursed_stab": "Cursed Stab",
+      "item.cursed_craft.cursed_pickaxe": "Cursed Pickaxe",
+      "item.cursed_craft.cursed_armor_leggings": "Cursed Leggings",
+      "block.cursed_craft.cursed_stairs": "Cursed Stairs",
+      "advancements.cursed_stone_advancement.title": "Cursed Stone Advancement",
+      "item.cursed_craft.cursed_sword": "Cursed Sword",
+      "item.cursed_craft.cursed_armor_chestplate": "Cursed Chestplate",
+      "item.cursed_craft.cursed_gem": "Cursed Gem",
+      "biome.cursed_craft.cursed_biome": "Cursed Biome",
+      "item.cursed_craft.cursed_axe": "Cursed Axe",
+      "item.cursed_craft.cursed_armor_boots": "Cursed Boots",
+      "block.cursed_craft.cursed_blanks": "Cursed Blanks",
+      "advancements.cursed_stone_advancement.descr": "Find cursed stone",
+      "item.cursed_craft.cursed_shovel": "Cursed Shovel",
+      "block.cursed_craft.cursed_black_stone": "Cursed Black Stone",
+      "item.cursed_craft.refined_cursed_gem": "Refined Cursed Gem",
+      "fluid.cursed_water": "CursedWater",
+      "item.cursed_craft.cursed_armor_helmet": "Cursed Helmet",
+      "item.cursed_craft.cursed_dimension": "Cursed Dimension Portal Igniter",
+      "block.cursed_craft.cursed_grass": "Cursed Grass",
+      "itemGroup.tabcursed_craft": "Cursed Craft",
+      "item.cursed_craft.cursed_zombie_spawn_egg": "Cursed Zombie Spawn Egg",
+      "item.cursed_craft.cursed_stone": "Cursed Stone",
+      "entity.cursed_craft.cursed_zombie": "Cursed Zombie",
+      "block.cursed_craft.cursed_log": "Cursed Log",
+      "block.cursed_craft.cursed_block": "Cursed Block",
+      "block.cursed_craft.cursed_branches": "Cursed Branches",
+      "block.cursed_craft.glowing_grass": "Glowing Grass"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "cursed_craft",
+    "modName": "Cursed Craft",
+    "version": "1.0.0",
+    "author": "Joe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "com.blade7777.cursedcraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000652319
+}

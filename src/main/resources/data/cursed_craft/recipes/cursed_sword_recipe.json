@@ -1,0 +1,24 @@
+{
+  "group": "cursed_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "cursed_craft:refined_cursed_gem"
+    },
+    "1": {
+      "item": "cursed_craft:refined_cursed_gem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cursed_craft:cursed_sword",
+    "count": 1
+  }
+}

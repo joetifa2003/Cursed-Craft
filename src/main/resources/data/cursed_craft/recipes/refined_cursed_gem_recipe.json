@@ -1,0 +1,13 @@
+{
+  "group": "cursed_craft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cursed_craft:cursed_block"
+    }
+  ],
+  "result": {
+    "item": "cursed_craft:refined_cursed_gem",
+    "count": 9
+  }
+}

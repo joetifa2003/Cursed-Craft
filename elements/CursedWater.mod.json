@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "fluid",
+  "definition": {
+    "name": "CursedWater",
+    "textureStill": "cursed_water_still",
+    "textureFlowing": "cursed_water_flow",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:CursedCraft"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:CursedDimension"
+    ],
+    "restrictionBiomes": []
+  }
+}

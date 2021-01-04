@@ -1,0 +1,33 @@
+{
+  "group": "cursed_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cursed_craft:cursed_blanks"
+    },
+    "3": {
+      "item": "cursed_craft:cursed_blanks"
+    },
+    "4": {
+      "item": "cursed_craft:cursed_blanks"
+    },
+    "6": {
+      "item": "cursed_craft:cursed_blanks"
+    },
+    "7": {
+      "item": "cursed_craft:cursed_blanks"
+    },
+    "8": {
+      "item": "cursed_craft:cursed_blanks"
+    }
+  },
+  "result": {
+    "item": "cursed_craft:cursed_stairs",
+    "count": 1
+  }
+}

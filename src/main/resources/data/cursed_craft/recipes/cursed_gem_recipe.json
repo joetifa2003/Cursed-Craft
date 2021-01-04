@@ -1,0 +1,42 @@
+{
+  "group": "cursed_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cursed_craft:cursed_stone"
+    },
+    "1": {
+      "item": "cursed_craft:cursed_stone"
+    },
+    "2": {
+      "item": "cursed_craft:cursed_stone"
+    },
+    "3": {
+      "item": "cursed_craft:cursed_stone"
+    },
+    "4": {
+      "item": "minecraft:emerald"
+    },
+    "5": {
+      "item": "cursed_craft:cursed_stone"
+    },
+    "6": {
+      "item": "cursed_craft:cursed_stone"
+    },
+    "7": {
+      "item": "cursed_craft:cursed_stone"
+    },
+    "8": {
+      "item": "cursed_craft:cursed_stone"
+    }
+  },
+  "result": {
+    "item": "cursed_craft:cursed_gem",
+    "count": 1
+  }
+}

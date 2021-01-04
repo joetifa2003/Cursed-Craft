@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cursed_craft:cursed_grass",
+    "cursed_craft:cursed_dirt",
+    "cursed_craft:glowing_grass"
+  ]
+}

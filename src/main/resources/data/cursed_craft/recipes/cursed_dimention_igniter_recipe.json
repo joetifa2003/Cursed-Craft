@@ -1,0 +1,16 @@
+{
+  "group": "cursed_craft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cursed_craft:cursed_stone"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "item": "cursed_craft:cursed_dimension",
+    "count": 1
+  }
+}

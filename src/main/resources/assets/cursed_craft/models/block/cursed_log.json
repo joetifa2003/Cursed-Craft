@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cursed_craft:blocks/cursed_log_top",
+    "up": "cursed_craft:blocks/cursed_log_top",
+    "north": "cursed_craft:blocks/cursed_log",
+    "east": "cursed_craft:blocks/cursed_log",
+    "south": "cursed_craft:blocks/cursed_log",
+    "west": "cursed_craft:blocks/cursed_log",
+    "particle": "cursed_craft:blocks/cursed_log_top"
+  }
+}

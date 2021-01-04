@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "tab",
+  "definition": {
+    "name": "Cursed Craft",
+    "icon": {
+      "value": "CUSTOM:CursedLog"
+    },
+    "showSearch": true
+  }
+}

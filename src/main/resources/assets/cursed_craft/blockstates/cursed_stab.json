@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cursed_craft:block/cursed_stab"
+    },
+    "type=top": {
+      "model": "cursed_craft:block/cursed_stab_top"
+    },
+    "type=double": {
+      "model": "cursed_craft:block/cursed_stab_full"
+    }
+  }
+}

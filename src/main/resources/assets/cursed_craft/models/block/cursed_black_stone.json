@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cursed_craft:blocks/cursed_black_stone",
+    "up": "cursed_craft:blocks/cursed_black_stone",
+    "north": "cursed_craft:blocks/cursed_black_stone",
+    "east": "cursed_craft:blocks/cursed_black_stone",
+    "south": "cursed_craft:blocks/cursed_black_stone",
+    "west": "cursed_craft:blocks/cursed_black_stone",
+    "particle": "cursed_craft:blocks/cursed_black_stone"
+  }
+}

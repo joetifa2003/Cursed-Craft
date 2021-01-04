@@ -1,0 +1,29 @@
+{
+  "group": "cursed_craft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cursed_craft:refined_cursed_gem"
+    },
+    "1": {
+      "item": "cursed_craft:refined_cursed_gem"
+    },
+    "2": {
+      "item": "cursed_craft:refined_cursed_gem"
+    },
+    "3": {
+      "item": "cursed_craft:refined_cursed_gem"
+    },
+    "5": {
+      "item": "cursed_craft:refined_cursed_gem"
+    }
+  },
+  "result": {
+    "item": "cursed_craft:cursed_armor_helmet",
+    "count": 1
+  }
+}

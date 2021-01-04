@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cursed_craft:blocks/cursed_leaves",
+    "up": "cursed_craft:blocks/cursed_leaves",
+    "north": "cursed_craft:blocks/cursed_leaves",
+    "east": "cursed_craft:blocks/cursed_leaves",
+    "south": "cursed_craft:blocks/cursed_leaves",
+    "west": "cursed_craft:blocks/cursed_leaves",
+    "particle": "cursed_craft:blocks/cursed_leaves"
+  }
+}

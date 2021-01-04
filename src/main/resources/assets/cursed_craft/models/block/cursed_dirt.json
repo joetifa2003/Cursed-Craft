@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cursed_craft:blocks/cursed_grass_bottom",
+    "up": "cursed_craft:blocks/cursed_grass_bottom",
+    "north": "cursed_craft:blocks/cursed_grass_bottom",
+    "east": "cursed_craft:blocks/cursed_grass_bottom",
+    "south": "cursed_craft:blocks/cursed_grass_bottom",
+    "west": "cursed_craft:blocks/cursed_grass_bottom",
+    "particle": "cursed_craft:blocks/cursed_grass_bottom"
+  }
+}

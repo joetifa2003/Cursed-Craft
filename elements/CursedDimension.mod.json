@@ -1,0 +1,46 @@
+{
+  "_fv": 15,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:CursedBiome"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:CursedBlackStone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:CursedWater"
+    },
+    "airColor": {
+      "value": -16737895,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "portalParticles": {
+      "value": "ASH"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Cursed Dimension Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:CursedCraft"
+    },
+    "texture": "cursed_dimention_igniter",
+    "portalTexture": "cursed_dimention",
+    "enablePortal": true
+  }
+}
